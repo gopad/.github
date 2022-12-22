@@ -9,9 +9,9 @@ end
 Octokit::Client.new(
   access_token: ENV["GITHUB_TOKEN"]
 ).tap do |client|
-  @repos = client.org_repos("gopad").map(&:name).sort.reject do |row|
-    [".github"].include? row
-  end
+  @repos = client.org_repos("gopad").map(&:name).sort.select do |row|
+    row.start_with? "gopad-"
+  end.append("homebrew-gopad")
 
   File.write(
     File.expand_path(
