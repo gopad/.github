@@ -1,0 +1,7 @@
+# Status
+
+| Repo | General |
+| --- | --- | --- | --- |
+<%- @repos.each do |row| -%>
+| [<%= row %>](https://github.com/gopad/<%= row %>) | [![General Build](https://github.com/gopad/<%= row %>/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/<%= row %>/actions/workflows/general.yml) |
+<%- end -%>
