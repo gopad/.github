@@ -1,7 +1,7 @@
 # Status
 
 | Repo | General |
-| --- | --- | --- | --- |
+| --- | --- |
 | [gopad-android](https://github.com/gopad/gopad-android) | [![General Build](https://github.com/gopad/gopad-android/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-android/actions/workflows/general.yml) |
 | [gopad-api](https://github.com/gopad/gopad-api) | [![General Build](https://github.com/gopad/gopad-api/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-api/actions/workflows/general.yml) |
 | [gopad-cli](https://github.com/gopad/gopad-cli) | [![General Build](https://github.com/gopad/gopad-cli/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-cli/actions/workflows/general.yml) |
