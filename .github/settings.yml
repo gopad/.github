@@ -1,7 +1,7 @@
 ---
 repository:
   name: .github
-  description: "Kleister: GitHub"
+  description: "Gopad: GitHub"
   homepage: https://gopad.eu
   topics: gopad, etherpad, github, scripting, profile
 
