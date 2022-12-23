@@ -14,5 +14,6 @@
 | [gopad-php](https://github.com/gopad/gopad-php) | [![General Build](https://github.com/gopad/gopad-php/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-php/actions/workflows/general.yml) |
 | [gopad-python](https://github.com/gopad/gopad-python) | [![General Build](https://github.com/gopad/gopad-python/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-python/actions/workflows/general.yml) |
 | [gopad-ruby](https://github.com/gopad/gopad-ruby) | [![General Build](https://github.com/gopad/gopad-ruby/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-ruby/actions/workflows/general.yml) |
+| [gopad-secrets](https://github.com/gopad/gopad-secrets) | [![General Build](https://github.com/gopad/gopad-secrets/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-secrets/actions/workflows/general.yml) |
 | [gopad-ui](https://github.com/gopad/gopad-ui) | [![General Build](https://github.com/gopad/gopad-ui/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/general.yml) |
 | [homebrew-gopad](https://github.com/gopad/homebrew-gopad) | [![General Build](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml) |
