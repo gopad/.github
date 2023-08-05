@@ -1,7 +1,7 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "description": [
-    "Preset used by Kleister"
+    "Preset used by Gopad"
   ],
   "extends": [
     "config:base",
@@ -45,7 +45,7 @@
       "matchPackageNames": [
         "golang.org/x/crypto",
         "golang.org/x/net",
-        "github.com/kleister/kleister-go"
+        "github.com/gopad/gopad-go"
       ],
       "semanticCommitType": "patch",
       "semanticCommitScope": "deps",
