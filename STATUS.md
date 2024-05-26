@@ -13,13 +13,13 @@
 [![changes build](https://github.com/gopad/gopad-desktop/actions/workflows/changes.yml/badge.svg)](https://github.com/gopad/gopad-desktop/actions/workflows/changes.yml) [![general build](https://github.com/gopad/gopad-desktop/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-desktop/actions/workflows/general.yml)
 
 ## gopad-docs
-[![general build](https://github.com/gopad/gopad-docs/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-docs/actions/workflows/general.yml)
+[![automerge build](https://github.com/gopad/gopad-docs/actions/workflows/automerge.yml/badge.svg)](https://github.com/gopad/gopad-docs/actions/workflows/automerge.yml) [![flake build](https://github.com/gopad/gopad-docs/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/gopad-docs/actions/workflows/flake.yml) [![general build](https://github.com/gopad/gopad-docs/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-docs/actions/workflows/general.yml)
 
 ## gopad-go
 [![changes build](https://github.com/gopad/gopad-go/actions/workflows/changes.yml/badge.svg)](https://github.com/gopad/gopad-go/actions/workflows/changes.yml) [![general build](https://github.com/gopad/gopad-go/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-go/actions/workflows/general.yml)
 
 ## gopad-infra
-[![general build](https://github.com/gopad/gopad-infra/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-infra/actions/workflows/general.yml)
+[![automerge build](https://github.com/gopad/gopad-infra/actions/workflows/automerge.yml/badge.svg)](https://github.com/gopad/gopad-infra/actions/workflows/automerge.yml) [![flake build](https://github.com/gopad/gopad-infra/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/gopad-infra/actions/workflows/flake.yml) [![general build](https://github.com/gopad/gopad-infra/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-infra/actions/workflows/general.yml)
 
 ## gopad-ios
 [![changes build](https://github.com/gopad/gopad-ios/actions/workflows/changes.yml/badge.svg)](https://github.com/gopad/gopad-ios/actions/workflows/changes.yml) [![general build](https://github.com/gopad/gopad-ios/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-ios/actions/workflows/general.yml)
@@ -40,4 +40,4 @@
 [![automerge build](https://github.com/gopad/gopad-ui/actions/workflows/automerge.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/automerge.yml) [![binaries build](https://github.com/gopad/gopad-ui/actions/workflows/binaries.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/binaries.yml) [![changes build](https://github.com/gopad/gopad-ui/actions/workflows/changes.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/changes.yml) [![docker build](https://github.com/gopad/gopad-ui/actions/workflows/docker.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/docker.yml) [![flake build](https://github.com/gopad/gopad-ui/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/flake.yml) [![general build](https://github.com/gopad/gopad-ui/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/general.yml)
 
 ## homebrew-gopad
-[![general build](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml)
+[![automerge build](https://github.com/gopad/homebrew-gopad/actions/workflows/automerge.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/automerge.yml) [![flake build](https://github.com/gopad/homebrew-gopad/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/flake.yml) [![general build](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml)
