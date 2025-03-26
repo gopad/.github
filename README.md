@@ -23,8 +23,10 @@ store, after that you can simply execute the commands below.
 cat << EOF >| .envrc
 use flake . --impure
 
-export AWS_ACCESS_KEY_ID=$(op read op://Gopad/TerraformState/username)
-export AWS_SECRET_ACCESS_KEY=$(op read op://Gopad/TerraformState/password)
+export GITHUB_TOKEN=$(op read op://Gopad/Github/token)
+
+export AWS_ACCESS_KEY_ID=$(op read op://Gopad/Terraform/username)
+export AWS_SECRET_ACCESS_KEY=$(op read op://Gopad/Terraform/password)
 EOF
 
 direnv allow
