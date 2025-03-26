@@ -36,8 +36,5 @@
 ## gopad-ruby
 [![flake build](https://github.com/gopad/gopad-ruby/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/gopad-ruby/actions/workflows/flake.yml) [![general build](https://github.com/gopad/gopad-ruby/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-ruby/actions/workflows/general.yml) [![openapi build](https://github.com/gopad/gopad-ruby/actions/workflows/openapi.yml/badge.svg)](https://github.com/gopad/gopad-ruby/actions/workflows/openapi.yml) [![release build](https://github.com/gopad/gopad-ruby/actions/workflows/release.yml/badge.svg)](https://github.com/gopad/gopad-ruby/actions/workflows/release.yml)
 
-## gopad-ui
-[![binaries build](https://github.com/gopad/gopad-ui/actions/workflows/binaries.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/binaries.yml) [![docker build](https://github.com/gopad/gopad-ui/actions/workflows/docker.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/docker.yml) [![flake build](https://github.com/gopad/gopad-ui/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/flake.yml) [![general build](https://github.com/gopad/gopad-ui/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/gopad-ui/actions/workflows/general.yml)
-
 ## homebrew-gopad
 [![flake build](https://github.com/gopad/homebrew-gopad/actions/workflows/flake.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/flake.yml) [![general build](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml/badge.svg)](https://github.com/gopad/homebrew-gopad/actions/workflows/general.yml)
